@@ -8,8 +8,8 @@ These examples and exercises pertain to the .NET flavor of Regex, which is what 
 
 If you would like to use the same dataset as in the exercise, you can download them here:
 
-* [Mock SQLite Dataset from Mockaroo](https://github.com/forensicmike/magnet-regex-tips-tricks/blob/gh-pages/mock_data/mock_data.sqlite)
-* [Custom Artifact for AXIOM](https://github.com/forensicmike/magnet-regex-tips-tricks/blob/gh-pages/mock_data/mock_data_artifact.xml)
+* [Mock SQLite Dataset from Mockaroo](https://github.com/forensicmike/magnet-regex-tips-tricks/blob/gh-pages/mock_data/mock_data.sqlite){target="_blank"}
+* [Custom Artifact for AXIOM](https://github.com/forensicmike/magnet-regex-tips-tricks/blob/gh-pages/mock_data/mock_data_artifact.xml){target="_blank"}
 
 ## Quick Reference
 
@@ -23,10 +23,10 @@ _View Exercise - link will be posted day of!_
 
 ## Links
 
-* [Jamie McQuaid's Magnet blog with Regex Keyword examples](https://www.magnetforensics.com/blog/using-keywords-with-magnet-axiom/)
+* [Jamie McQuaid's Magnet blog with Regex Keyword examples](https://www.magnetforensics.com/blog/using-keywords-with-magnet-axiom/){target="_blank"}
 
-* [Microsoft Regular Expression Language Quick Reference](https://docs.microsoft.com/en-us/dotnet/standard/base-types/regular-expression-language-quick-reference)
+* [Microsoft Regular Expression Language Quick Reference](https://docs.microsoft.com/en-us/dotnet/standard/base-types/regular-expression-language-quick-reference){target="_blank"}
 
-* [Microsoft Character Escapes in Regular Expressions](https://docs.microsoft.com/en-us/dotnet/standard/base-types/character-escapes-in-regular-expressions)
+* [Microsoft Character Escapes in Regular Expressions](https://docs.microsoft.com/en-us/dotnet/standard/base-types/character-escapes-in-regular-expressions){target="_blank"}
 
-* [Mockaroo website used for test data generation](https://www.mockaroo.com)
+* [Mockaroo website used for test data generation](https://www.mockaroo.com){target="_blank"}
