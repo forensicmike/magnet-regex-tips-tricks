@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Artifacts version="1.0">
+	<Artifact type="SqliteArtifact" name="Mock Person Data - MOCK_PERSON_DATA" version="1.0">
+		<Source type="FileName">mock_data.sqlite</Source>
+		<Query>SELECT [id],[first_name],[last_name],[email],[ip_address],[home_address],[favorite_app],[fake_cc_number],[last_known_password] FROM MOCK_PERSON_DATA</Query>
+		<Fragments>
+			<Fragment source="id" alias="id" datatype="Integer" category="None"/>
+			<Fragment source="first_name" alias="first_name" datatype="String" category="None"/>
+			<Fragment source="last_name" alias="last_name" datatype="String" category="None"/>
+			<Fragment source="email" alias="email" datatype="String" category="None"/>
+			<Fragment source="ip_address" alias="ip_address" datatype="String" category="None"/>
+			<Fragment source="home_address" alias="home_address" datatype="String" category="None"/>
+			<Fragment source="favorite_app" alias="favorite_app" datatype="String" category="None"/>
+			<Fragment source="fake_cc_number" alias="fake_cc_number" datatype="String" category="None"/>
+			<Fragment source="last_known_password" alias="last_known_password" datatype="String" category="None"/>
+		</Fragments>
+	</Artifact>
+</Artifacts>
