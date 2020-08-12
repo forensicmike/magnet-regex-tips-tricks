@@ -2,7 +2,14 @@
 
 ## Preamble
 
-These examples and exercises pertain to the .NET flavor of Regex, which is what we use in Magnet AXIOM. 
+These examples and exercises pertain to the .NET flavor of Regex, which is what we use in Magnet AXIOM.
+
+## Talking Points
+
+* Regex is a complex subject.
+* The use case of Regex in forensics.
+* .NET Regex vs. other Regex variants
+* Gauging interest in further interest?
 
 ## Mock Dataset
 
@@ -15,15 +22,11 @@ If you would like to use the same dataset as in the exercise, you can download t
 
 This reference guide lists some common .NET regex constructs, particularly the ones covered in the Tips and Tricks session on August 13.
 
-## Post-session Exercise
-
-An exercise is available for you to complete to check your knowledge.
-
-_View Exercise - link will be posted day of!_
-
 ## Links
 
-* [Regex Keyword examples](https://www.magnetforensics.com/blog/using-keywords-with-magnet-axiom/) - Magnet blog by Jamie McQuaid
+* [Regex Keyword examples](https://www.magnetforensics.com/blog/using-keywords-with-magnet-axiom/) - Magnet blog by [Jamie McQuaid](https://twitter.com/reccetech)
+
+* [Keywords for PII in Magnet AXIOM](https://www.magnetforensics.com/blog/keywords-for-personally-identifiable-information-pii-in-magnet-axiom/) - Magnet blog by [Tarah Melton](https://twitter.com/melton_tarah)
 
 * [.NET Regular Expression Language Quick Reference](https://docs.microsoft.com/en-us/dotnet/standard/base-types/regular-expression-language-quick-reference) - from Microsoft
 
