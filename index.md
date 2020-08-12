@@ -19,6 +19,7 @@ These examples and exercises pertain to the .NET flavor of Regex, which is what 
 If you would like to use the same dataset as in the exercise, you can download them here:
 
 [Mock SQLite Dataset from Mockaroo](https://github.com/forensicmike/magnet-regex-tips-tricks/blob/gh-pages/mock_data/mock_data.sqlite)
+
 [Custom Artifact for AXIOM](https://github.com/forensicmike/magnet-regex-tips-tricks/blob/gh-pages/mock_data/mock_data_artifact.xml)
 
 ## Teaching Points
