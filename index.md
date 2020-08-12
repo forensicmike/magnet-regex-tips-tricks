@@ -6,13 +6,13 @@ These examples and exercises pertain to the .NET flavor of Regex, which is what 
 
 ## Talking Points
 
-* Regex is a complex subject.
-* The use case of Regex in forensics.
-* .NET Regex vs. other variants
-* Advanced searches and column filters in AXIOM
-* Regex testers
-* Universal Truth about Regex
-* Interest in further Regex content?
+* Regex is complex.
+* Use case in forensics.
+* .NET Regex vs. other variants.
+* Advanced searches and column filters in AXIOM.
+* Regex testers.
+* Universal Truth about Regex.
+* Interest in more Regex content?
 
 ## Mock Dataset
 
