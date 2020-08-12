@@ -57,6 +57,6 @@ This reference guide lists some common .NET regex constructs, particularly the o
 
 * [Character Escapes in .NET Regular Expressions](https://docs.microsoft.com/en-us/dotnet/standard/base-types/character-escapes-in-regular-expressions) - from Microsoft
 
-[Regex Hero](http://regexstorm.net/tester) - .NET Regex Tester
+* [Regex Hero](http://regexstorm.net/tester) - .NET Regex Tester
 
 * [Mockaroo](https://www.mockaroo.com) (fantastic website used for mock test data generation)
