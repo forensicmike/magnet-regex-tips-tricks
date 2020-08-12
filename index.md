@@ -44,7 +44,8 @@ This reference guide lists some common .NET regex constructs, particularly the o
 | [A-Z]s?$    | Matches any character A-Z, optionally including an 's' before the end of the string.                            |
 | ^(one\|two) | Matches the word one or two at the beginning of the string.                                                     |
 | \bsearch\b  | Matches the word search but only when it is between word boundaries (spaces, punctuation, start or end of line) |
-|             |                                                                                                                 |
+| [\w\W]*?    | Mike's Favorite - Match an indefinite number of, well, anything, terminating at the earliest opportunity.       |
+
 
 ## Links
 
