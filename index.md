@@ -8,8 +8,10 @@ These examples and exercises pertain to the .NET flavor of Regex, which is what 
 
 * Regex is a complex subject.
 * The use case of Regex in forensics.
-* .NET Regex vs. other Regex variants
-* Gauging interest in further interest?
+* .NET Regex vs. other variants
+* Advanced searches and column filters in AXIOM
+* Universal Truth about Regex
+* Interest in further Regex content?
 
 ## Mock Dataset
 
