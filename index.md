@@ -31,9 +31,13 @@ If you would like to use the same dataset as in the exercise, you can download t
 ## Teaching Points
 
 String and word boundaries with \b, ^, and $
+
 Escaping special characters
+
 Grouping and the use of Logical 'Or'
+
 Numbers and letters'es, anchoring
+
 Quantifiers - the specific and the indefinite
 
 ## Quick Reference
@@ -67,3 +71,7 @@ This reference guide lists some common .NET regex constructs, particularly the o
 [Regex Hero](http://regexstorm.net/tester) - .NET Regex Tester
 
 [Mockaroo](https://www.mockaroo.com) (fantastic website used for mock test data generation)
+
+## Contact
+
+My twitter handle is [@forensicmike1](https://twitter.com/forensicmike1) and DM's are open!
