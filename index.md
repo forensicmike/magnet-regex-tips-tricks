@@ -8,7 +8,7 @@
 
 ## Preamble
 
-These examples and exercises pertain to the .NET flavor of Regex, which is what we use in Magnet AXIOM.
+These examples and exercises pertain to the .NET flavor of Regex, which is what we use in [Magnet AXIOM](https://www.magnetforensics.com/products/magnet-axiom/) to perform advanced searches and column filters.
 
 ## Talking Points
 
