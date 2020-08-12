@@ -1,4 +1,10 @@
-# Regex Tips and Tricks
+## Table of Contents
+- [Preamble](#preamble)
+- [Talking Points](#talking-points)
+- [Mock Dataset](#mock-dataset)
+- [Teaching Points](#teaching-points)
+- [Quick Reference](#quick-reference)
+- [Links](#links)
 
 ## Preamble
 
