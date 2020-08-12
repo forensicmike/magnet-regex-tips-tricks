@@ -24,11 +24,11 @@ If you would like to use the same dataset as in the exercise, you can download t
 
 ## Teaching Points
 
-* String and word boundaries with \b, ^, and $
-* Escaping special characters
-* Grouping and the use of Logical 'Or'
-* Numbers and letters'es, anchoring
-* Quantifiers - the specific and the indefinite
+String and word boundaries with \b, ^, and $
+Escaping special characters
+Grouping and the use of Logical 'Or'
+Numbers and letters'es, anchoring
+Quantifiers - the specific and the indefinite
 
 ## Quick Reference
 
@@ -50,14 +50,14 @@ This reference guide lists some common .NET regex constructs, particularly the o
 
 ## Links
 
-* [Regex Keyword examples](https://www.magnetforensics.com/blog/using-keywords-with-magnet-axiom/) - Magnet blog by [Jamie McQuaid](https://twitter.com/reccetech)
+[Regex Keyword examples](https://www.magnetforensics.com/blog/using-keywords-with-magnet-axiom/) - Magnet blog by [Jamie McQuaid](https://twitter.com/reccetech)
 
-* [Keywords for PII in Magnet AXIOM](https://www.magnetforensics.com/blog/keywords-for-personally-identifiable-information-pii-in-magnet-axiom/) - Magnet blog by [Tarah Melton](https://twitter.com/melton_tarah)
+[Keywords for PII in Magnet AXIOM](https://www.magnetforensics.com/blog/keywords-for-personally-identifiable-information-pii-in-magnet-axiom/) - Magnet blog by [Tarah Melton](https://twitter.com/melton_tarah)
 
-* [.NET Regular Expression Language Quick Reference](https://docs.microsoft.com/en-us/dotnet/standard/base-types/regular-expression-language-quick-reference) - from Microsoft
+[.NET Regular Expression Language Quick Reference](https://docs.microsoft.com/en-us/dotnet/standard/base-types/regular-expression-language-quick-reference) - from Microsoft
 
-* [Character Escapes in .NET Regular Expressions](https://docs.microsoft.com/en-us/dotnet/standard/base-types/character-escapes-in-regular-expressions) - from Microsoft
+[Character Escapes in .NET Regular Expressions](https://docs.microsoft.com/en-us/dotnet/standard/base-types/character-escapes-in-regular-expressions) - from Microsoft
 
-* [Regex Hero](http://regexstorm.net/tester) - .NET Regex Tester
+[Regex Hero](http://regexstorm.net/tester) - .NET Regex Tester
 
-* [Mockaroo](https://www.mockaroo.com) (fantastic website used for mock test data generation)
+[Mockaroo](https://www.mockaroo.com) (fantastic website used for mock test data generation)
