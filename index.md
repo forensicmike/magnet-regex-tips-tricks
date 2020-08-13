@@ -1,3 +1,5 @@
+![](https://pbs.twimg.com/profile_images/1180112048530874371/so6M5ByM.jpg)
+
 ## Table of Contents
 - [Preamble](#preamble)
 - [Talking Points](#talking-points)
@@ -71,6 +73,8 @@ This reference guide lists some common .NET regex constructs, particularly the o
 [Regex Hero](http://regexstorm.net/tester) - .NET Regex Tester
 
 [Mockaroo](https://www.mockaroo.com) (fantastic website used for mock test data generation)
+
+[Request an AXIOM Trial](https://www.magnetforensics.com/free-trial/)
 
 ## Contact
 
